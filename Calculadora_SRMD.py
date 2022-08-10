@@ -1,5 +1,4 @@
 print ("CALCULADORA")
-print ("Elige una opción")
 print ("1-sumar")
 print ("2-restar")
 print ("3-multiplicar")
